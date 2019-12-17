@@ -1,0 +1,18 @@
+Theme => Properties
+
+window header color: 3D View/Theme Space/Panel Colors/Header
+window header text:  3D View/Theme Space/Title
+window title:        3D View/Theme Space/Region Text Title
+window background:   3D View/Theme Space/Panel Colors/Background
+
+layout color:        User Interface/Box/Inner
+
+text:                User Interface/regular/Text
+text selected:       User Interface/regular/Text Selected
+
+operators inner:     User Interface/Tool/Inner
+operators hover:     User Interface/Tool/Inner Selected
+operators text:      User Interface/Tool/Text
+
+enum inner:          User Interface/Radio Buttons/Inner
+enum selected:       User Interface/Radio Buttons/Inner Selected
